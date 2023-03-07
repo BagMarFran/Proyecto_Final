@@ -20,6 +20,6 @@ Además, en un análisis final se intentará desarrollar una herramienta que per
 ## Autores
 
 - [@Facundo Martinez](https://www.github.com/famarti)
-- [@Facundo Bagnasco](https://www.github.com/)
+- [@Facundo Bagnasco](https://github.com/FacBagnasco)
 - [@Ezequiel Frandsen](https://www.github.com/)
 
